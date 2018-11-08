@@ -1,0 +1,1 @@
+ select ФkВ≥Вс.personid,first_name,ФkВ≥Вс.job_id from person ФkВ≥Вс join jobhistoryБ@ЦкВ≥Вс on ФkВ≥Вс.personid = ЦкВ≥Вс.personid and ФkВ≥Вс.job_id!=ЦкВ≥Вс.job_id;
